@@ -32,7 +32,6 @@
 
     <inceptionYear>2014</inceptionYear>
 
-
     <build>
         <plugins>
             <plugin>
